@@ -2,5 +2,6 @@
 
 #### Learn Nim by making projects!
 
-- Ghost Game [todo]
+- Ghost Game
 - Vending Machine
+- Small Simulation [todo]
